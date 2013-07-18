@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3B246683-10D8-FAF1-AFB5-3AF22D8DCD5C}") = "VRViewer", "Assembly-CSharp-firstpass-vs.csproj", "{23FFEA35-F667-890F-8E9F-EBB096207829}"
+EndProject
+Project("{3B246683-10D8-FAF1-AFB5-3AF22D8DCD5C}") = "VRViewer", "Assembly-CSharp-vs.csproj", "{49092F2E-D612-119A-4601-3244BF2F6EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FFEA35-F667-890F-8E9F-EBB096207829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FFEA35-F667-890F-8E9F-EBB096207829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FFEA35-F667-890F-8E9F-EBB096207829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FFEA35-F667-890F-8E9F-EBB096207829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49092F2E-D612-119A-4601-3244BF2F6EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49092F2E-D612-119A-4601-3244BF2F6EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49092F2E-D612-119A-4601-3244BF2F6EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49092F2E-D612-119A-4601-3244BF2F6EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																								GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
